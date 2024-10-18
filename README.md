@@ -1,6 +1,9 @@
 # Bienvenido a mi página web
+`hecho por Alvaro San Juan Rodrigo`
 
 ## Página web para los ejercicios de IAW
+
+## UNIDAD 1: Programación y funcionamiento con gitHub, VS code y Git Bash.
 
 [ejercicio1](unidad1/ejercicio1.md)
 
