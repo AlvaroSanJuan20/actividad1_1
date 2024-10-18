@@ -9,35 +9,35 @@ En esta actividad aprenderemos a usar los comandos basicos de git para conectarn
 
 > Usaremos el comando de **git init** para crear un repositorio con el nombre de prueba2_Alvaro (En el futuro esta carpeta sería relocalizada dentro de un directorio llamado "IAW") Usaremos **touch** para crear los archivos txt dentro del repositorio prueba2_Alvaro, luego haremos **git add** y **git commit** para añadir y confirmar cambios.
 
-![image](unidad1/GitHubImages/1.png)
+![image](GitHubImages/1.png)
 
-![image](unidad1/GitHubImages/2.png)
+![image](GitHubImages/2.png)
 
-![image](unidad1/GitHubImages/3.png)
+![image](GitHubImages/3.png)
 
 ## Agregar el repositorio local al repositorio remoto en GitHub y subirlo a GitHub.
 
 > Para subirlo a GitHub usaremos el comando de **git remote add origin [url]** que nos añadirá como origen remoto la url de nuesto repositorio en GitHub, luego hacemos un **git push** para que se suban los archivos que tenemos en local.
 
-![image](unidad1/GitHubImages/4.png)
+![image](GitHubImages/4.png)
 
 ## Clonación del repositorio remoto en Debian
 
 > Vamos a Debian iniciando sesión en nuestro usuario, luego instalaremos los paquetes necesarios para usar comandos de git en Debian y usaremos **git clone [url de nuestro repositorio remoto]** para clonarlo.
 
-![image](unidad1/GitHubImages/5.png)
+![image](GitHubImages/5.png)
 
 
 ## Modificación/Creación de archivos y subida a GitHub
 
 > Haremos los mismos pasos que antes al principio de la actividad, simplemente modificamos el archivo 1 y usamos un touch para crear el archivo 3, luego pasaremos por todo el proceso de add, commit y push.
 
-![image](unidad1/GitHubImages/6.png)
+![image](GitHubImages/6.png)
 
-![image](unidad1/GitHubImages/7.png)
+![image](GitHubImages/7.png)
 
 ## Actualizar el repositorio de Debian
 
 > Usaremos **git pull** para traer los archivos de GitHub hasta Debian y el repositorio se actualizará.
 
-![image](unidad1/GitHubImages/8.png)
+![image](GitHubImages/8.png)
